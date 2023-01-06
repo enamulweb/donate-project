@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-sec{
+    text-align: center;
+    background-image: url(images/donation2.jpg);
+    background-size: cover;
+    
+    padding: 50px;
+     
+}
+
+   
+
+.header-title{
+    margin: 174px 307px 20px 307px ;
+    font-weight: 700;
+font-size: 65px;
+color: #FFFFFF;
+
+
+}
+
+.header-description{
+    font-weight: 400;
+font-size: 18px;
+color: #cd2323;
+margin-left:300px;
+margin-bottom: 30px;
+width: 691px;
+
+}
+
+.btn-primary{
+    height: 64px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px 36px;
+}
+.second-header{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.common-title{
+    font-weight: 700;
+font-size: 45px;
+color: #121212;
+margin-bottom: 20px;
+}
+.second-description{
+    font-weight: 400;
+font-size: 18px;
+color: #707070;
+}
+.button5{
+    
+    display: flex;
+    
+    gap: 30px;
+    padding: 20px 0px;
+    
+}
+
+.button5 div>button{
+    padding: 10px 20px;
+    position: relative;
+    left: 350px;
+    
+}
+.amount{
+    text-align: center;
+    font-weight: 400;
+font-size: 18px;
+color: #B3B3B3;
+margin-top: 60px;
+margin-bottom: 28px;
+}
+.first{
+    text-align: center;
+    margin-top: 39px;
+}
+.dofarafa{
+    margin-left: 330px;
+    margin-right: 330px;
+}
